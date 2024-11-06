@@ -19,8 +19,8 @@
 ## 分站设置
 若需要设置分站，请额外解析一个域名并绑定至宝塔面板。
 
-# 专业版源码免费分享
-https://zibovip.top/archives/2648
+# 专业版源码
+https://zibovip.top/archives/1974
 
 ## 请作者喝杯茶
 
